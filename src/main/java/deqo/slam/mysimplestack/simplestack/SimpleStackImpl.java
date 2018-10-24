@@ -8,6 +8,7 @@ import java.util.Stack;
 
 
 /*repondre à lexigence 1*/
+/* modification dans brache mysimplestack1 */
 
 public class SimpleStackImpl implements SimpleStack {
 

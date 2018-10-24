@@ -1,5 +1,7 @@
 package deqo.slam.mysimplestack.simplestack;
 
+/* modification dans brache mysimplestack1 */
+
 public class Item {
 
     private Object o;
